@@ -59,11 +59,12 @@
                           
             </div>            
         </div>
-
-    </body>
-    <footer>
+        
+  <footer>
        <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"> GitHub </a>
        <a href="www.facebook.com" id="Facebook"> Facebook </a>
        <a href="www.twitter.com" id="Twitter"> Twitter </a>
     </footer>
+    </body>
+  
 </html>
