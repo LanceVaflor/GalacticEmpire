@@ -59,11 +59,12 @@
                           
             </div>  
                     
-                 <div class="footer">
-                         <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"> GitHub </a>
+                      <footer>
+                         <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"> <img </a>
                          <a href="www.facebook.com" id="Facebook"> Facebook </a>
                          <a href="www.twitter.com" id="Twitter"> Twitter </a>
-                 </div>
+                      </footer>       
+                 
         </div>
 
     </body>
