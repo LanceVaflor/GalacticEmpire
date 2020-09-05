@@ -60,7 +60,7 @@
             </div>  
                     
                       <footer>
-                         <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"> <img </a>
+                        <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"></a> <img src="image/github.png"></a>
                          <a href="www.facebook.com" id="Facebook"> Facebook </a>
                          <a href="www.twitter.com" id="Twitter"> Twitter </a>
                       </footer>       
