@@ -59,11 +59,12 @@
                           
             </div>  
                     
-                      <footer>
-                        <a href="https://github.com/LanceVaflor/GalacticEmpire" id="GitHub"></a> <img src="image/github.png"></a>
-                         <a href="www.facebook.com" id="Facebook"> Facebook </a>
-                         <a href="www.twitter.com" id="Twitter"> Twitter </a>
-                      </footer>       
+                    <footer>
+                     <a href="https://github.com/LanceVaflor/GalacticEmpire"><img src="image/github.png"height="80" width="80"></a>
+                     <a href="https://www.facebook.com"><img src="image/fb.png" height="80" width="80"></a>
+                     <a href="www.twitter.com" id="Twitter"><img src="image/twitter.png" height="60" width="60"></a>
+                    </footer>
+           
                  
         </div>
 
