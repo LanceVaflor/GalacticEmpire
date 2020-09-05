@@ -54,9 +54,10 @@
                         Duis pharetra ut justo quis blandit. Morbi mi mi, elementum id mauris a, blandit condimentum dolor. Mauris ac tempus est, vitae posuere leo. Vivamus ex arcu, varius vitae sodales eu, ullamcorper quis arcu. Nam ac fermentum magna.
                          Aenean rhoncus elit lacus, ac facilisis mauris facilisis nec. In finibus risus in fermentum vestibulum.
                           Fusce eget justo finibus, efficitur urna eu, facilisis risus. Mauris vitae nunc non ex venenatis aliquet. Ut sit amet nisi libero.</p>
+                
+                <img src="image/stardestroyer.png">
                           
-            </div>
-            
+            </div>            
         </div>
 
     </body>
